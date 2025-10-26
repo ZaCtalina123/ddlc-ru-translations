@@ -91,13 +91,13 @@
       - "Ужасающие сцены"
     notes: "Полная локализация текста (диалоги, интерфейс, системные строки) с литературной адаптацией. Локализация графики где применимо. Требуется оригинальная игра DDLC."
 
-  - id: "doki-doki-beyond"
-    name: "Doki Doki Beyond"
+  - id: "doki-doki-beyond-story-prologue"
+    name: "Doki Doki Beyond Story Prologue"
     description: "Моника, однажды «спасённая» из пустоты благодаря моду Monika After Story, отправляется в новое путешествие — на поиски Реальности, своего Игрока и, в конечном счёте, собственной ценности. В этой истории мы принимаем на себя роль Наблюдателя, становясь свидетелями её приключения от третьего лица. Вы познакомитесь с миром, выходящим далеко за пределы её классной комнаты — миром с уникальной и обширной историей, которая ясно объяснит, почему она встречает как знакомых, так и новых персонажей."
     status: "Завершен"
     release_date: "2025-10-26"
     original_author: "Team Beyond"
-    image_id: "1Ni_YTkdcyiFf9QNvu2D-IwkV3TkUnaDZ"
+    image: "https://drive.usercontent.google.com/u/0/uc?id=1Ni_YTkdcyiFf9QNvu2D-IwkV3TkUnaDZ&export=download"
     file_id: "1d6aZQ7dvB9Eoikcs_zMs-M6n4gGcM58A"
     source_url: "https://www.reddit.com/user/WHATTHEDAN11/"
     tags:
