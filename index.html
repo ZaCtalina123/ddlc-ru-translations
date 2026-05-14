@@ -1634,6 +1634,7 @@
     // Google Drive thumbnails (progressive: small → large)
     function resolveImageUrlSmall(mod) {
       if (mod.image) return mod.image;
+      if (mod.local_image) return '/assets/titles/' + mod.local_image;
       if (mod.image_id) {
         return 'https://drive.google.com/thumbnail?id=' + encodeURIComponent(mod.image_id);
       }
@@ -1642,6 +1643,7 @@
 
     function resolveImageUrlLarge(mod) {
       if (mod.image) return mod.image;
+      if (mod.local_image) return '/assets/titles/' + mod.local_image;
       if (mod.image_id) {
         return 'https://drive.google.com/thumbnail?id=' + encodeURIComponent(mod.image_id) + '&sz=w10000';
       }

@@ -65,6 +65,8 @@ Required and optional fields:
 - tags (array of strings)
 - warnings (array of strings, optional) — content warnings
 - image (string, URL, optional)
+- local_image (string, filename in assets/titles/, optional) — takes precedence over image_id if both are specified
+- image_id (string, Google Drive file ID, optional) — used to generate image URL if image is not specified
 - file_id (string, Google Drive file ID, optional)
 - size_mb (number, optional)
 - source_url (string, URL to the mod/author page, optional)
@@ -83,7 +85,7 @@ mods:
     release_date: 2025-01-15
     tags: ["романтика", "драма"]
     warnings: ["психологический хоррор"]
-    image: https://example.com/image.jpg
+    local_image: "example-image.jpg"  # Filename in assets/titles/ folder
     file_id: 1AbCdEfGhIjKlmNoPqRsTuVwXyZ
     size_mb: 512
     source_url: https://reddit.com/r/DDLCMods/...
@@ -91,6 +93,8 @@ mods:
 ```
 
 Notes:
+- image takes priority over local_image and image_id if all are specified
+- local_image is filename only (without path) from assets/titles/ folder
 - file_id is used to construct Google Drive view/download links on the client
 - Keep id values unique to avoid collisions
 - The app validates and normalizes fields before rendering

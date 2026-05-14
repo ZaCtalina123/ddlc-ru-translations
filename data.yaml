@@ -1,11 +1,11 @@
-﻿mods:
+mods:
   - id: "doki-doki-convergence-ch1"
     name: "Doki Doki Convergence Chapter 1"
     description: "Спустя некоторое время после трагедии в его жизни, наш главный герой снова оказывается в жизни своей подруги детства, Сайори, и Моники - его старой доверенной подруги с первого года обучения. По мере того как он знакомится со всеми в литературном клубе Моники и возобновляет дружбу, которой они оба пренебрегали некоторое время, он узнаёт, что в дружбе Сайори есть нечто большее, чем он мог себе представить. Когда небо над ней затягивается тучами, смогут ли он и Моника провести её сквозь дождь? Или же их пути разойдутся, и он останется один на своей собственной разбитой дороге?"
     status: "Завершен"
     release_date: "2025-10-24"
     original_author: "u/TeamHopeOfficial"
-    image_id: "1FiAeBIQM3wBWZfvEnr1PRoU_EyUg6TqP"
+    local_image: "doki-doki-convergence-ch1.png"
     file_id: "1TNtTeFbEBI0pFvpHn8psCsEX24lOmHKx"
     source_url: "https://www.reddit.com/user/TeamHopeOfficial/"
     tags:
@@ -27,7 +27,7 @@
     status: "Завершен"
     release_date: "2025-10-19"
     original_author: "u/AsahirBloodfall"
-    image_id: "1FkNGivXbERj5R9UN4WhGR-QeAu1GdE8t"
+    local_image: "keeper-of-reality-act-2.jpeg"
     file_id: "1aZNofr3a-Xcj-8P7c0DmqUFn_ly1j6yf"
     source_url: "https://www.reddit.com/user/AsahirBloodfall/"
     tags:
@@ -50,7 +50,7 @@
     status: "Завершен"
     release_date: "2025-10-18"
     original_author: "u/MoniKatlover"
-    image_id: "1dSW9WSjGcZKibPq9WDd1ckkAUGpk-oFs"
+    local_image: "doki-doki-love-shyness.jpeg"
     file_id: "1KIe-T3zwIPIRxxxyTKpYrIZTU7HYBe_0"
     source_url: "https://www.reddit.com/user/MoniKatlover/"
     tags:
@@ -72,7 +72,7 @@
     status: "Завершен"
     release_date: "2025-10-25"
     original_author: "u/Captain_Oreo7B"
-    image_id: "1Vgr5ioS8v9kNFyNkwlNjkkNH42chGW9P"
+    local_image: "doki-doki-infinity-pens-demo.jpg"
     file_id: "1hAqxwtroiABYsV7v6Ibls2YYe0QljLnh"
     source_url: "https://www.reddit.com/user/Captain_Oreo7B/"
     tags:
@@ -93,11 +93,11 @@
 
   - id: "doki-doki-beyond-story-prologue"
     name: "Doki Doki Beyond Story Prologue"
-    description: "Моника, однажды «спасённая» из пустоты благодаря моду Monika After Story, отправляется в новое путешествие — на поиски Реальности, своего Игрока и, в конечном счёте, собственной ценности. В этой истории мы принимаем на себя роль Наблюдателя, становясь свидетелями её приключения от третьего лица. Вы познакомитесь с миром, выходящим далеко за пределы её классной комнаты — миром с уникальной и обширной историей, которая ясно объяснит, почему она встречает как знакомых, так и новых персонажей."
+    description: "Моника, однажды «спасённая» из пустоты благодаря моду Monika After Story, отправляется в новое путешествие — на поиски Реальности, своего Игрока и, в конечном счёте, собственной ценности. В этой истории мы принимаем на себя роль Наблюдателя, становясь свидетелями её приключения от третьего лица. Вы познакомитесь с миром, выходящим далеко за пределы её классной комнаты — миром с уникальной и общей историей, которая ясно объяснит, почему она встречает как знакомых, так и новых персонажей."
     status: "Завершен"
     release_date: "2025-10-26"
-    original_author: "Team Beyond"
-    image_id: "1whVZVwF3EX60rEU890Tz8Rt3-AKpcpTi"
+    original_author: "u/WHATTHEDAN11"
+    local_image: "doki-doki-beyond-story-prologue.png"
     file_id: "1d6aZQ7dvB9Eoikcs_zMs-M6n4gGcM58A"
     source_url: "https://www.reddit.com/user/WHATTHEDAN11/"
     tags:
@@ -120,7 +120,7 @@
     status: "Завершен"
     release_date: "2025-10-26"
     original_author: "u/DokiDokiDaEs"
-    image_id: "1LRlIkqTEyPAKiNogHPx18Q6EUmivTUVO"
+    local_image: "doki-doki-green-eyes.png"
     file_id: "1igtHC4zxomXfs45vm78pIwO2VgddmaSq"
     source_url: "https://www.reddit.com/user/DokiDokiDaEs/"
     tags:
@@ -144,7 +144,7 @@
     status: "Завершен"
     release_date: "2025-10-27"
     original_author: "SpiritH0F"
-    image_id: "1GTPAKTItSi_bYKXvNGEpv8S_l9upUgZD"
+    local_image: "the-rising-night-demo.jpeg"
     file_id: "1XmG-VmQuQJ2TIx9Hzp3iAH-8TKhHwHU9"
     source_url: "https://www.reddit.com/user/SpiritH0F/"
     tags:
@@ -167,7 +167,7 @@
     status: "Завершен"
     release_date: "2025-10-29"
     original_author: "u/Gubbey"
-    image_id: "1UidnWDioXdZrJrtsUFnqPT9MYhxnQ9P8"
+    local_image: "doki-doki-downpour-demo.png"
     file_id: "1RvuGojgqCd-ngjgNd4jBLJFFFeS8_9VC"
     source_url: "https://www.reddit.com/user/Gubbey/"
     tags:
@@ -191,7 +191,7 @@
     status: "Завершен"
     release_date: "2025-10-30"
     original_author: "u/feddifasber"
-    image_id: "1Gs8DOyikywhEXs00x4r1SVza_5CHMrH8"
+    local_image: "the-rainclouds-are-gone.png"
     file_id: "10nYrnfR3qLOneJhetWFDBb79Sk4mq5x1"
     source_url: "https://www.reddit.com/user/feddifasber/"
     tags:
@@ -213,7 +213,7 @@
     status: "Завершен"
     release_date: "2025-10-31"
     original_author: "Skull218"
-    image_id: "1__YHIPAoJDqswxURD2WSkaCndnwYBL32"
+    local_image: "ddlc-the-normal-vn-2.png"
     file_id: "1_T7kt4jsc1cA8Jgugeun3l1DYX-TWgQ8"
     source_url: "https://github.com/Lupanthrope/DDLCtVN2.0"
     tags:
@@ -236,7 +236,7 @@
     status: "Завершен"
     release_date: "2025-11-02"
     original_author: "u/ThoMysteriousY"
-    image_id: "13kTFSSHZXGl9Z-a4H01XMWEu9u9H-U0r"
+    local_image: "the-walking-doki-literature-club.png"
     file_id: "1qcc_gLxPBhlz3t8MD8GLA0k4tkD9yP6E"
     source_url: "https://www.reddit.com/user/ThoMysteriousY/"
     tags:
@@ -257,7 +257,7 @@
     status: "Завершен"
     release_date: "2025-11-04"
     original_author: "u/UNOwen1"
-    image_id: "1EW-vsqKkSNDLGhHyHM95AHqPMk13_AmZ"
+    local_image: "before-the-needle-lifts.jpeg"
     file_id: "1a2GsX_IMB3Mj4IEYTNx2gYpj4GMqlx1U"
     source_url: "https://www.reddit.com/user/UNOwen1/"
     tags:
@@ -281,7 +281,7 @@
     status: "Завершен"
     release_date: "2025-11-04"
     original_author: "u/TheVariousArtists"
-    image_id: "1rJbSoIMPFGyQY3TE0K0edgRTUiSs07Y2"
+    local_image: "dokis-fantasy-adventure.png"
     file_id: "1pm1TtM-6Zv5Fz1xrlyxKcwHfKIOigsP6"
     source_url: "https://www.reddit.com/user/TheVariousArtists/"
     tags:
@@ -302,7 +302,7 @@
     status: "Завершен"
     release_date: "2025-11-07"
     original_author: "u/ultrastarwarsgamer99"
-    image_id: "1pTTxaiACUcv4le4Q3QbVFsC6f8Xtgn8W"
+    local_image: "branching-paths-s1.png"
     file_id: "1k51eUxNeGnYM4bQXNHTl5IpZMpBHWhEk"
     source_url: "https://www.reddit.com/user/ultrastarwarsgamer99/"
     tags:
@@ -323,7 +323,7 @@
     status: "Завершен"
     release_date: "2025-11-07"
     original_author: "u/Frokieton08"
-    image_id: "1vT_85IJhmvMjPrtpZItNNxd4eHyx1rxD"
+    local_image: "truth-or-deception.png"
     file_id: "1op8ndfjUiSRv5vz6qMN_1c_BgKSvaaCg"
     source_url: "https://www.reddit.com/user/Frokieton08/"
     tags:
@@ -344,7 +344,7 @@
     status: "Завершен"
     release_date: "2025-11-08"
     original_author: "u/dewallt101"
-    image_id: "1w55Tio7g1VP11TSks8sD3LZghkORoVmg"
+    local_image: "blue-seas-demo.png"
     file_id: "1zOTTqqBgnhGpkM-9wjm0QfxEYGKDgJTA"
     source_url: "https://www.reddit.com/user/dewallt101/"
     tags:
